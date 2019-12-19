@@ -1,6 +1,7 @@
 
- primeArray = []
+ 
 def prime?(int)
+  primeArray = []
   return false if !int.integer?
   return false if int < 2
   return true if int == 2
