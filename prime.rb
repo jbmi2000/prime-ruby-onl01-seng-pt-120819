@@ -10,4 +10,4 @@ def prime?(int)
   primeArray.push(int)
 end
 
-prime?(3)
+puts prime?(3)
