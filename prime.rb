@@ -9,3 +9,5 @@ def prime?(int)
   true
   primeArray.push(int)
 end
+
+prime?(3)
