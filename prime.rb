@@ -1,5 +1,5 @@
 
- 
+
 def prime?(int)
   primeArray = []
   return false if !int.integer?
