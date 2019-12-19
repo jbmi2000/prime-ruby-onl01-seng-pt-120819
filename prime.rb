@@ -7,5 +7,5 @@ def prime?(int)
   (2..int-1).each {|num| return false if int % num == 0}
   true
         primeArray.push(int)
-end
+
 end
